@@ -1,6 +1,6 @@
 ## imgBB-bulk-exe
 
-You can use this tool to download several images from [imgBB](https://imgbb.com/) from their urls,
+You can use this tool to mass download images from [imgBB](https://imgbb.com/) from their urls,
 I made this because there's no other utility available for this purpose.
 
 (you can also use the npm package from https://github.com/Un-index/imgbb-bulk)

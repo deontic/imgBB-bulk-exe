@@ -20,4 +20,4 @@ the window will close automatically once your images are downloaded
 
 
 
-P.S: If you found this tool remotely useful, please consider starring the project.
+**P.S**: If you found this tool remotely useful, please consider starring the project.

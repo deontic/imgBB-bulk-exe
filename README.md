@@ -8,7 +8,8 @@ I made this because there's no other utility available for this purpose.
 
 
 ## Instructions
-* download the exe file in /bin/imgBB-bulk.exe and run it
+* download the exe file in /bin/imgBB-bulk.exe and run it (if falsely detected as a virus, ignore the warning and whitelist the exe file and run it again)
+
 
 * press the copy button on your imgBB upload page to copy all urls, then paste them directly into the textbox in the app window 
 * hit the download button 

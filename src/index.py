@@ -87,8 +87,8 @@ def main():
             f.write(response.content)
             f.close()
 
-            print(imgName)
-            print(imgUrl)
+            # print(imgName)
+            # print(imgUrl)
     except Exception as e:
         print(e)
         exit()

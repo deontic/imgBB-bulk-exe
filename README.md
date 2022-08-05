@@ -3,7 +3,7 @@
 You can use this small tool to mass download images from [imgBB](https://imgbb.com/) from their urls,
 I made this because there's no other utility available for this purpose (since the img url points to the download page and not the image, other image downloaders will not work).
 
-(you can use the **web-based easy to use** version from https://un-index.github.io/imgBB-web-bulk-downloader/, or use the npm package from https://github.com/Un-index/imgbb-bulk, also note that the web-based version and the npm version will save your files with their **original** names, but since it is too much work this version will set part of the url as the filename instead)
+(you can use the **web-based easy to use** version from https://deontic.github.io/imgBB-web-bulk-downloader/, or use the npm package from https://github.com/deontic/imgbb-bulk, also note that the web-based version and the npm version will save your files with their **original** names, but since it is too much work this version will set part of the url as the filename instead)
 
 
 
